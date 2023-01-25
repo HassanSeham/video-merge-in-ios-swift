@@ -1,0 +1,6 @@
+framework module Pods_videoMergingTest {
+  umbrella header "Pods-videoMergingTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
